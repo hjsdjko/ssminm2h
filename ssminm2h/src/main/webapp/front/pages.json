@@ -1,0 +1,234 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB61E",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+			,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/kaoshiziliao/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/kaoshiziliao/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/kaoshiziliao/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	}
+																,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/messages/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/messages/liuyan",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	}
+			    , {
+		"path": "pages/forum-index/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}, {
+		"path": "pages/forum-detail/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户交流发帖详情"
+		}
+	}, {
+		"path": "pages/forum-reply/forum-reply",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "回复评论"
+		}
+	}, {
+		"path": "pages/forum-list/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-my/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-add-or-update/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}
+			, {
+		"path": "pages/exampaperlist/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "试卷列表"
+		}
+	}, {
+		"path": "pages/exampaperlist/exam",
+		"style": {
+			"navigationStyle": "custom"
+		}
+	}, {
+		"path": "pages/examrecord/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "考试记录"
+		}
+	}, {
+		"path": "pages/examrecord/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "考试记录"
+		}
+	}, {
+		"path": "pages/examfailrecord/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "错题本"
+		}
+	}
+		, {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "微信小程序考试系统",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#A98175",
+		"selectedColor": "#2E4E7E",
+		"borderStyle": "white",
+		"backgroundColor": "#FFC773",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+												,{
+				"pagePath": "pages/kaoshiziliao/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "考试资料"
+			}
+						
+						,{
+			 	"pagePath": "pages/forum-index/forum-index",
+				"iconPath": "static/tabs/type.png",
+			 	"selectedIconPath": "static/tabs/type1.png",
+				"text": "用户交流"
+			}
+						
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
